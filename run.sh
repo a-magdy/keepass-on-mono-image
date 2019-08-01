@@ -3,6 +3,8 @@
 # Refer to the command line docs on how to use the keepass cmdline
 # https://keepass.info/help/base/cmdline.html
 
+Before starting make sure to run: `xhost + 127.0.0.1` in the XQuartz terminal
+
 # Base command should be like: 
 echo "
 docker run \
